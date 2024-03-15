@@ -141,3 +141,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git remote -v
 git push oringin main
 git push origin main
+git remote add https://github.com/MansuetoPaiva/fcc-exercicios.git
+git remote add paiva https://github.com/MansuetoPaiva/fcc-exercicios.git
+git push paiva main
+git push paiva master
